@@ -19,7 +19,7 @@
   <br>
 </div>
 
-<div align=center><h2> :fire: MYBLOG :fire: </h2></div>
+<div align=center><h1> :fire: MYBLOG :fire: </h1></div>
 
 <div align=center> 
 <a href="https://blog.naver.com/achiiun623"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=green&link=https://blog.naver.com/achiiun623"/></a> 
